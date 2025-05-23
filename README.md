@@ -1,1 +1,1 @@
-![картинка](pngs\cannon.png)
+![картинка](./pngs/cannon.png)
